@@ -1,0 +1,1 @@
+It uses sbt stage which compile the application locally on your machine so you only need java on your server. It kills the server before uploading and restarts it. It displays server log in your console at the end of the deploy.sh , you can Ctrl-C and it keep the server up.
